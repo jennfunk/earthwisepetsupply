@@ -1,0 +1,146 @@
+/*  ------------------------
+	Navbar 
+	------------------------ */
+
+.nav-container {
+	width: 100%;
+	border-top: 10px solid #68724D;
+	position: relative;
+}
+
+
+.navbar-static-top {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 10px solid #d6d6d6;
+	border-bottom: 10px solid #d6d6d6;
+}
+
+.navbar-brand {
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+.navbar-nav {
+	float: right;
+	margin-top: 30px;
+}
+
+
+/*  ------------------------
+	Header/Jumbotron 
+	------------------------ */
+
+
+.header-container {
+	width: 100%;
+}
+
+.jumbotron {
+	min-height: 500px;
+    position: relative;
+    background-color: #68724D;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+/*save for later
+background: url("../images/photo-1453369569379-52cd4fc989af.jpeg") center center;
+*/
+
+.container {
+	background-color: #fff;
+}
+ 
+.row .header {
+	margin-left: 40px;
+}
+
+.offer {
+	margin-top: 80px;
+	margin-right: 25px;
+	margin-left: 50px;
+}
+
+.btn-primary {
+	border: none;
+}
+
+/*  ------------------------
+	Carousel 
+	------------------------ */
+
+
+/*  ------------------------
+	Content 
+	------------------------ */
+
+.content-container {
+	width: 100%;
+}
+
+
+.content {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 75px;
+}
+
+h2 {
+	color: #68724D;
+}
+
+.row {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+.col-md-4 img {
+	max-width: 90%;
+	max-height: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+.btn {
+	width: 263px;
+	height: 35px;
+	background-color: #AD5F09;	
+	color: #fff;
+	border-color: none;
+	text-transform: uppercase;
+}
+
+.img-rounded {
+	border-radius: 6px;
+}
+
+/*  ------------------------
+	Contact 
+	------------------------ */
+
+.contact-container {
+	width: 100%;
+}
+
+.storefront {
+	padding-left: 75px;
+	margin-top: 70px;
+	height: 350px;
+}
+
+/*  ------------------------
+	Footer 
+	------------------------ */
+
+.footer-container {
+	width: 100%;
+}
+
+.col-xs-12 {
+	margin-top: 75px;
+}
